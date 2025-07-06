@@ -1,0 +1,85 @@
+.rt-TextFieldInput {
+    text-indent: 1rem !important;
+    margin-top: -3.6rem !important;
+}
+
+
+.rt-Badge{
+    background-color: color(display-p3 0.92 0.58 0.01 / 0);
+    color: color(display-p3 0.68 0.35 0.08);
+}
+
+.rt-TextFieldRoot:where(.rt-variant-surface) {
+    --text-field-selection-color: color(display-p3 0.98 0.76 0.47 / 0.42);
+    --text-field-focus-color: color(display-p3 0.89 0.73 0.6 / 0.74);
+
+}
+
+
+.css-gmuwbf {
+    width: clamp(280px, 90vw, 512px);  /* min 280px, max 512px, responsive in between */
+}
+
+.css-2k40o4 {
+    margin-top: -3.7rem;
+}
+
+.css-nwbz56 {
+    margin-top: -0.4rem;
+}
+  
+@media (max-width: 500px) {
+.hide-on-small {
+    display: none !important;
+}
+}
+
+/* Toast container styling */
+/* Toast container styling - Glassy Apple-like with Red Text */
+/* Toast container with glass effect */
+[data-sonner-toast] {
+    background: rgba(255, 255, 255, 0.35) !important; /* translucent white */
+    border: 1px solid rgba(249, 129, 71, 0.3);         /* soft orange border */
+    border-radius: 1.25rem;
+    padding: 1.2rem 1.5rem;
+    color: #1e1e1d;
+    font-size: 0.95rem;
+    font-weight: 500;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(12px);                      /* main glass effect */
+    -webkit-backdrop-filter: blur(12px);              /* Safari support */
+    z-index: 9999;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    animation: toastSlideUp 0.3s ease-in-out;
+}
+ 
+
+[data-sonner-toast][data-styled=true] [data-title] {
+  font-weight: 700;
+}
+
+/* ✨ Star Loader (particles) */
+.rt-Card{
+    --card-border-width: 1px;
+    --card-background-color: rgb(255 255 255 / 7%);
+}
+
+
+.css-1917aos {
+  border: 0.1px solid #00000030 !important;
+  background: #f1ede8 !important;
+  }
+
+
+
+
+  /* This forces all code blocks to have transparent background */
+.codehilite, .language-markdown, pre, code {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+}
