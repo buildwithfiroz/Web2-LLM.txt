@@ -205,20 +205,13 @@ If you found this useful, consider giving it a ***⭐️ on GitHub*** or contrib
 
 <p align="center">
   <a href="https://github.com/buildwithfiroz">
-    <img width='200' src="https://img.shields.io/badge/GitHub-@buildwithfiroz-181717?logo=github&style=for-the-badge" alt="GitHub" />
-  </a> &nbsp;
-
+    <img width='220' src="https://img.shields.io/badge/GitHub-@buildwithfiroz-181717?logo=github&style=for-the-badge" alt="GitHub" /></a> &nbsp;
   <a href="https://github.com/buildwithfiroz/Web2-LLM.txt/blob/main/LICENSE">
-    <img width='120' src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
-  </a> &nbsp;
-
+    <img width='110' src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" /></a> &nbsp;
   <a href="https://github.com/buildwithfiroz/Web2-LLM.txt">
-    <img width='160' src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge" alt="Open Source" />
-  </a> &nbsp;
-
+    <img width='130' src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge" alt="Open Source" /></a> &nbsp;
   <a href="mailto:buildbyfiroz@icloud.com">
-    <img width='250' src="https://img.shields.io/badge/Email-buildbyfiroz@icloud.com-blue?logo=gmail&style=for-the-badge" alt="Email" />
-  </a>
+    <img width='250' src="https://img.shields.io/badge/Email-buildbyfiroz@icloud.com-blue?logo=gmail&style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
