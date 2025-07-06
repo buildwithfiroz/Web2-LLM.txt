@@ -196,16 +196,33 @@ https://github.com/user-attachments/assets/81b78b7e-f1e4-47d1-82a3-57739bb2562d
 
 
 <br>
+
+This project is proudly built and maintained by [@buildwithfiroz](https://github.com/buildwithfiroz) — focused on making AI tools more accessible, efficient, and developer-friendly.
+
+If you found this useful, consider giving it a ***⭐️ on GitHub*** or contributing to improve it further!
+
+<br>
+
 <p align="center">
   <a href="https://github.com/buildwithfiroz">
-    <img width='230' src="https://img.shields.io/badge/GitHub-@buildwithfiroz-181717?logo=github&style=plastic" alt="GitHub" /></a>  &nbsp;  &nbsp;
-    <a href="https://github.com/buildwithfiroz/desktop-login-admin-kivymd/blob/main/LICENSE">
-    <img width='120' src="https://img.shields.io/badge/License-MIT-green?style=plastic" alt="MIT License" /></a>  &nbsp;  &nbsp;
-  <a href="https://github.com/buildwithfiroz/desktop-login-admin-kivymd">
-    <img width='150' src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=plastic" alt="Open Source" /></a> &nbsp;  &nbsp;
+    <img width='200' src="https://img.shields.io/badge/GitHub-@buildwithfiroz-181717?logo=github&style=for-the-badge" alt="GitHub" />
+  </a> &nbsp;
+
+  <a href="https://github.com/buildwithfiroz/Web2-LLM.txt/blob/main/LICENSE">
+    <img width='120' src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
+  </a> &nbsp;
+
+  <a href="https://github.com/buildwithfiroz/Web2-LLM.txt">
+    <img width='160' src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge" alt="Open Source" />
+  </a> &nbsp;
+
   <a href="mailto:buildbyfiroz@icloud.com">
-    <img width='280' src="https://img.shields.io/badge/Email-buildbyfiroz@icloud.com-blue?logo=gmail&style=plastic" alt="Email" /></a>  
+    <img width='250' src="https://img.shields.io/badge/Email-buildbyfiroz@icloud.com-blue?logo=gmail&style=for-the-badge" alt="Email" />
+  </a>
 </p>
+
+---
+
 
 <br>
 
