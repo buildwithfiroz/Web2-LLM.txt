@@ -2,7 +2,8 @@
   <svg width="40" height="40" viewBox="0 0 24 24" fill="#FFA500" xmlns="http://www.w3.org/2000/svg">
   <path d="M12 0C7.58 0 4 3.58 4 8c0 1.56.47 3.01 1.28 4.24L2 21.41 3.41 23l6.58-3.28C10.99 20.53 11.99 21 13 21c4.42 0 8-3.58 8-8s-3.58-8-8-8z"/>
 </svg>
-  Web2LLM: Website to LLM-ready .txt Generator 
+
+  Web2LLM: Website to LLM-ready Generator (Rag Context Generator)
 </h2>
 
 
@@ -190,7 +191,21 @@ https://github.com/user-attachments/assets/81b78b7e-f1e4-47d1-82a3-57739bb2562d
 > Then Try Again to run Reflex
 <br>
 
-<br> <br>
+<br> 
+
+## FAQ (Frequently Asked Questions)
+
+Is this project free to use?  
+- Yes, it’s completely free and open-source. You can download, modify, and use it as per your needs.  
+
+What is Web to LLM?
+- Web to LLM is a project that allows you to extract content from websites and feed it directly into a Large Language Model (LLM). This makes it easier to create chatbots, RAG systems, or AI assistants that understand your website’s context.
+
+Is my website data stored anywhere?
+- No. By default, the tool only processes and passes the data to the LLM. You can choose to save embeddings in a local or cloud vector database if you want long-term memory.
+
+
+<br>
 
 ## 👨‍💻 Author - Contact Information
 
